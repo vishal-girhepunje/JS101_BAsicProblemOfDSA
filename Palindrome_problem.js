@@ -1,4 +1,4 @@
- let num=1221;
+ let num=12321;
  let rev=0;
  let tem=num;
  while(num>0){
